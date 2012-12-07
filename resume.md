@@ -1,10 +1,14 @@
+<!-- first page should not have headers or footers --> 
+\thispagestyle{empty}
+
+<!-- header with my name and page number --> 
+\pagestyle{myheadings}
+\markright{F. Maxwell Harper\hfill}
+
 F. Maxwell Harper
 =================
 
-3120 E 25th St.  
-Minneapolis, MN  
-maxharp3r@gmail.com  
-612-293-6290
+3120 E 25th St. / Minneapolis, MN / maxharp3r@gmail.com / 612-293-6290
 
 
 Education
