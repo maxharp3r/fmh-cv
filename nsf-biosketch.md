@@ -47,15 +47,28 @@ Programmer & FairIsaac & 1998 - 1999 \\
 Five Related Publications
 -------------------------
 
+**Harper, F.**, Sen, S., Frankowski, D. Supporting Social Recommendations with Activity-Balanced Clustering. RecSys '07:Proceedings of the 2007 ACM conference on Recommender systems, 2007.
+
+**Harper, F.**, Frankowski, D., Drenner, S., Ren, Y., Kiesler, S., Terveen, L., Kraut, R., Riedl, J.  Talk Amongst Yourselves: Inviting Users To Participate In Online Conversations.  IUI ’07: The 12th International Conference on Intelligent User Interfaces, Honolulu, HI, 2007.
+
+**Harper, F.**, Li, X., Chen, Y., Konstan, J., Social Comparisons to Motivate Contributions to an Online Community. The 2nd International Conference on Persuasive Technology (PERSUASIVE 2007), 2007.
+
+Sen, S., **Harper, F.**, LaPitz, A., Riedl, J. The Quest for Quality Tags. International Conference on Supporting Group Work (Group), 2007.
+
+Sen, S., Lam, S., Cosley, D., Rashid, A., Frankowski, D., Osterhouse, J., **Harper, F.**, Riedl, J., tagging, community, vocabulary, evolution. 20th Anniversary Conference on Computer supported cooperative work, 2006.
+
+
+<!--
 Logie, J., Weinberg, J., **Harper, F.**, Konstan, J. Asked and Answered: On Qualities and Quantities of Answers in Online Q&A Sites. Fifth International AAAI Conference on Weblogs and Social Media, 2011.
 
 **Harper, F.**, Weinberg, J., Logie, J., Konstan, J. Question Types in Social Q&A Sites. First Monday, 15 (7), 2010.
 
+
 **Harper, F.**, Moy, D., Konstan, J. Facts or Friends? Distinguishing Informational and Conversational Questions in Social Q&A Sites. CHI ’09: SIGCHI Conference on Human Factors in Computing Systems.
 
-**Harper, F.**, Raban, D., Rafaeli, S., Konstan, J. Predictors of Answer Quality in Online Q&A Sites. CHI ’08: SIGCHI Conference on Human Factors in Computing Systems, Florence, IT, 2008.
-
 Raban, D., **Harper, F.** Motivations for Answering Questions Online. In Azran, T., Caspi, D. (Eds.) New Media and Innovative Technologies, 2008.
+
+-->
 
 
 Five Other Significant Publications
@@ -67,7 +80,7 @@ Pal, A., **Harper, F.**, Konstan, J. Exploring Question Selection Bias to Identi
 
 Chen, Y., **Harper, F.**, Konstan, J., Li, X. Social Comparisons and Contributions to Online Communities: A Field Experiment on MovieLens. American Economic Review, 100 (4), 2010.
 
-**Harper, F.**, Frankowski, D., Drenner, S., Ren, Y., Kiesler, S., Terveen, L., Kraut, R., Riedl, J.  Talk Amongst Yourselves: Inviting Users To Participate In Online Conversations.  IUI ’07: The 12th International Conference on Intelligent User Interfaces, Honolulu, HI, 2007.
+**Harper, F.**, Raban, D., Rafaeli, S., Konstan, J. Predictors of Answer Quality in Online Q&A Sites. CHI ’08: SIGCHI Conference on Human Factors in Computing Systems, Florence, IT, 2008.
 
 **Harper, F.**, Li, X., Chen, Y., Konstan, J. An Economic Model of User Rating in an Online Recommender System.  In UM ’05: The 10th International Conference on User Modeling, Edinburgh, UK, 2005, pp. 307-316.
 
