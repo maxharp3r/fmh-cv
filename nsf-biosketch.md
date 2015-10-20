@@ -4,10 +4,10 @@
 F. Maxwell Harper
 =================
 
-Research Associate  
+Research Scientist
 University of Minnesota  
 Department of Computer Science and Engineering  
-612-293-6290  
+612-724-8432
 harper@cs.umn.edu
 
 

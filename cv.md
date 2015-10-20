@@ -8,7 +8,7 @@
 F. Maxwell Harper
 =================
 
-3120 E 25th St. / Minneapolis, MN / maxharp3r@gmail.com / 612-293-6290
+3120 E 25th St. / Minneapolis, MN / maxharp3r@gmail.com / 612-724-8432
 
 
 Education
@@ -34,10 +34,10 @@ Professional and Research Experience
 
 University of Minnesota, Minneapolis, MN
 :   (2012 - present)  
-    Research Associate  
-    Developing new platforms to drive research in the areas of recommender systems and social media.
+    Research Scientist  
+    Leading research projects and developing research platforms in the areas of recommender systems and social computing.
+    Managing computing resources for GroupLens research lab.
     Mentoring graduate and undergraduate students.
-    Contributing to grant writing.
 
 Code 42 Software, Minneapolis, MN
 :   (2011 - 2012)  
@@ -153,6 +153,18 @@ Department of Software Engineering, University of Minnesota, MN
 Peer-Reviewed Publications
 --------------------------
 
+**Harper, F.**, Xu, F., Kaur, H., Condiff, K., Chang, S., Terveen, T. Putting Users in Control of Their Recommendations. RecSys '15: Proceedings of the 9th ACM Conference on Recommender Systems, 2015.
+
+Ekstrand, M., Kluver, D., **Harper, F.**, Konstan, J. Letting Users Choose Recommender Algorithms: An Experimental Study. RecSys '15: Proceedings of the 9th ACM Conference on Recommender Systems, 2015.
+
+Chang, S., **Harper, F.**, Terveen, L. Using Groups of Items for Preference Elicitation in Recommender Systems. CSCW '15: Proceedings of the 18th ACM Conference on Computer Supported Cooperative Work and Social Computing, 2015.
+
+Wang, T., **Harper, F.**, Hecht, B. Designing Better Location Fields in User Profiles. Group '14: Proceedings of the 18th International Conference on Supporting Group Work, 2014.
+
+Nguyen, T., Hui, P., **Harper, F.**, Terveen, L., Konstan, J. Exploring the Filter Bubble: The Effect of Using Recommender Systems on Content Diversity. WWW '14: Proceedings of the 23rd International Conference on World Wide Web, 2014.
+
+Ekstrand, M., **Harper, F.**, Willemsen, M., Konstan, J. User Perception of Differences in Recommender Algorithms. RecSys '14: Proceedings of the 8th ACM Conference on Recommender Systems, 2014.
+
 Ren, Y., **Harper, F.**, Drenner, S., Terveen, L., Kiesler, S., Riedl, J., Kraut, R. Building Member Attachment in Online Communities: Applying Theories of Group Identity and Interpersonal Bonds. MIS Quarterly, 36 (3), 2012.
 
 Pal, A., **Harper, F.**, Konstan, J. Exploring Question Selection Bias to Identify Experts and Potential Experts in Community Question Answering. ACM Transactions on Information Systems (TOIS), 30 (2), 2012.
@@ -167,39 +179,39 @@ Chen, Y., **Harper, F.**, Konstan, J., Li, X. Social Comparisons and Contributio
 
 **Harper, F**. The Impact of Social Design on User Contributions to Online Communities. Ph.D. Thesis, University of Minnesota, 2009.
 
-**Harper, F.**, Moy, D., Konstan, J. Facts or Friends? Distinguishing Informational and Conversational Questions in Social Q&A Sites. CHI ’09: SIGCHI Conference on Human Factors in Computing Systems. 24% acceptance rate. CHI 2009 Honorable Mention Paper.
+**Harper, F.**, Moy, D., Konstan, J. Facts or Friends? Distinguishing Informational and Conversational Questions in Social Q&A Sites. CHI ’09: SIGCHI Conference on Human Factors in Computing Systems. CHI 2009 Honorable Mention Paper.
 
-McCarthy, J., Congleton, B., **Harper, F.** Public Displays for Sharing Online Media in a Physical Workspace. CSCW ’08: ACM Conference on Computer Supported Cooperative Work, 2008. 23% acceptance rate. Best Paper Nominee.
+McCarthy, J., Congleton, B., **Harper, F.** Public Displays for Sharing Online Media in a Physical Workspace. CSCW ’08: ACM Conference on Computer Supported Cooperative Work, 2008. Best Paper Nominee.
 
-**Harper, F.**, Raban, D., Rafaeli, S., Konstan, J. Predictors of Answer Quality in Online Q&A Sites. CHI ’08: SIGCHI Conference on Human Factors in Computing Systems, Florence, IT, 2008. 22% acceptance rate.
+**Harper, F.**, Raban, D., Rafaeli, S., Konstan, J. Predictors of Answer Quality in Online Q&A Sites. CHI ’08: SIGCHI Conference on Human Factors in Computing Systems, 2008.
 
-Sen, S., **Harper, F.**, LaPitz, A., Riedl, J. The Quest for Quality Tags. GROUP ’07: ACM 2007 International ACM Conference on Supporting Group Work, Sanibel Island, FL, 2007. 29% acceptance rate.
+Sen, S., **Harper, F.**, LaPitz, A., Riedl, J. The Quest for Quality Tags. GROUP ’07: ACM 2007 International ACM Conference on Supporting Group Work, 2007.
 
-Frankowski, D., Lam, S., Sen, S., **Harper, F.**, Yilek, S., Cassano, M., Riedl, J. Recommenders Everywhere: The WikiLens Community-Maintained Recommender System. ISW ’07: International Symposium on Wikis, Montréal, Canada, 2007. 51% acceptance rate.
+Frankowski, D., Lam, S., Sen, S., **Harper, F.**, Yilek, S., Cassano, M., Riedl, J. Recommenders Everywhere: The WikiLens Community-Maintained Recommender System. ISW ’07: International Symposium on Wikis, 2007.
 
-**Harper, F.**, Sen, S., Frankowski, D. Supporting Social Recommendations with Activity-Balanced Clustering. Recsys ’07: ACM Conference on Recommender Systems, Minneapolis, MN, 2007. Short paper. 60% acceptance rate.
+**Harper, F.**, Sen, S., Frankowski, D. Supporting Social Recommendations with Activity-Balanced Clustering. Recsys ’07: ACM Conference on Recommender Systems, 2007. Short paper.
 
-**Harper, F.** Encouraging Contributions to Online Communities with Personalization and Incentives. UM ’07: The 11th International Conference on User Modeling, Corfu, Greece, 2007. Doctoral consortium paper. 20% acceptance rate.
+**Harper, F.** Encouraging Contributions to Online Communities with Personalization and Incentives. UM ’07: The 11th International Conference on User Modeling, 2007. Doctoral consortium paper.
 
-**Harper, F.**, Li, X., Chen, Y., Konstan, J. Social Comparisons to Motivate Contributions to an Online Community. Persusasive ’07: The Second International Conference on Persuasive Technology, Palo Alto, CA, 2007. 44% acceptance rate.
+**Harper, F.**, Li, X., Chen, Y., Konstan, J. Social Comparisons to Motivate Contributions to an Online Community. Persusasive ’07: The Second International Conference on Persuasive Technology, 2007.
 
-**Harper, F.**, Frankowski, D., Drenner, S., Ren, Y., Kiesler, S., Terveen, L., Kraut, R., Riedl, J.  Talk Amongst Yourselves: Inviting Users To Participate In Online Conversations.  IUI ’07: The 12th International Conference on Intelligent User Interfaces, Honolulu, HI, 2007. 22% acceptance rate.
+**Harper, F.**, Frankowski, D., Drenner, S., Ren, Y., Kiesler, S., Terveen, L., Kraut, R., Riedl, J.  Talk Amongst Yourselves: Inviting Users To Participate In Online Conversations.  IUI ’07: The 12th International Conference on Intelligent User Interfaces, 2007.
 
-Sen, S., Lam, S., Cosley, D., Rashid, A., Frankowski, D., Osterhouse, J., **Harper, F.**, Riedl, J. tagging, community, vocabulary, evolution. CSCW ’06: ACM Conference on Computer Supported Cooperative Work, Banff, Canada, 2006. 22% acceptance rate. Best Paper Award.
+Sen, S., Lam, S., Cosley, D., Rashid, A., Frankowski, D., Osterhouse, J., **Harper, F.**, Riedl, J. tagging, community, vocabulary, evolution. CSCW ’06: ACM Conference on Computer Supported Cooperative Work, 2006. Best Paper Award.
 
-Drenner, S., **Harper, F.**, Frankowski, D., Riedl, J., Terveen, L. Insert Movie Reference Here: A System to Bridge Conversation and Item-Oriented Web Sites. CHI ’06: SIGCHI Conference on Human Factors in Computing Systems, Montréal, Canada, 2006. Short paper. 23% acceptance rate.
+Drenner, S., **Harper, F.**, Frankowski, D., Riedl, J., Terveen, L. Insert Movie Reference Here: A System to Bridge Conversation and Item-Oriented Web Sites. CHI ’06: SIGCHI Conference on Human Factors in Computing Systems, 2006. Short paper.
 
-**Harper, F.**, Li, X., Chen, Y., Konstan, J. An Economic Model of User Rating in an Online Recommender System.  In UM ’05: The 10th International Conference on User Modeling, Edinburgh, UK, 2005, pp. 307-316. 21% acceptance rate.
+**Harper, F.**, Li, X., Chen, Y., Konstan, J. An Economic Model of User Rating in an Online Recommender System.  In UM ’05: The 10th International Conference on User Modeling, 2005.
 
 
 Other Publications
 ------------------
 
-Congleton, B., **Harper, F.**, McCarthy, J. Linking Mobile Phones and Public Displays for  Sharing Online Media in the Physical Workplace. In CHI’08 Workshop: Designing and Evaluating Mobile Phone-Based Interaction with Public Displays, at CHI ’08: SIGCHI  Conference on Human Factors in Computing Systems, Florence, IT, 2008.
+Congleton, B., **Harper, F.**, McCarthy, J. Linking Mobile Phones and Public Displays for  Sharing Online Media in the Physical Workplace. In CHI’08 Workshop: Designing and Evaluating Mobile Phone-Based Interaction with Public Displays, at CHI ’08: SIGCHI  Conference on Human Factors in Computing Systems, 2008.
 
 Raban, D., **Harper, F.** Motivations for Answering Questions Online. In Azran, T., Caspi, D. (Eds.) New Media and Innovative Technologies, 2008.
 
-**Harper, F.**, Konstan, J., Li, X., Chen, Y. User Motivations and Incentive Structures in an Online Recommender System. In Workshop on Sustaining Community: The role and design of incentive mechanisms in online systems, at GROUP ’05: ACM 2005 International Conference on Supporting Group Work, Sanibel Island, FL, 2005.
+**Harper, F.**, Konstan, J., Li, X., Chen, Y. User Motivations and Incentive Structures in an Online Recommender System. In Workshop on Sustaining Community: The role and design of incentive mechanisms in online systems, at GROUP ’05: ACM 2005 International Conference on Supporting Group Work, 2005.
 
 **Harper, F.**, Data Warehousing and the Organization of Governmental Databases. In Digital Government: Principles and Best Practices, Pavlichev, A. and Garson, G., Eds. Idea Group Publishing, Hershey, PA, 2004, pp. 236-247.
 
@@ -207,9 +219,9 @@ Raban, D., **Harper, F.** Motivations for Answering Questions Online. In Azran, 
 Research Grants
 ---------------
 
-SBIR Phase I: Blue Shift Communities – Improving Online Technical Support (PI). National Science Foundation, $150,000 for the period January, 2010 to July, 2010.
-
 HCC-Small: Understanding and Supporting Online Question-Answering Sites (co-author), National Science Foundation, $445,519 for the period July, 2008 to July, 2011.
+
+SBIR Phase I: Blue Shift Communities – Improving Online Technical Support (PI). National Science Foundation, $150,000 for the period January, 2010 to July, 2010.
 
 
 Professional Activities
@@ -230,8 +242,8 @@ Program Committee Member
 Reviewer
 :   (2006 - present)
 
-    *   SIGCHI Conference on Human Factors in Computing Systems (CHI): 2006-2010
-    *   ACM Conference on Computer Supported Cooperative Work (CSCW): 2006-2010
+    *   SIGCHI Conference on Human Factors in Computing Systems (CHI): 2006-present
+    *   ACM Conference on Computer Supported Cooperative Work (CSCW): 2006-present
     *   ACM Transactions on the Web (TWEB): 2008, 2010
     *   ACM Conference on Recommender Systems (RecSys) workshop on “Recommenders and the Social Web”: 2009, 2010
     *   International Conference on Computational Linguistics (COLING): 2010
@@ -273,9 +285,7 @@ Department of Computer Science, University of Minnesota, MN
 Other Facts
 -----------
 
-Personal interests include squash (the sport more than the vegetable), visual art, and gardening.
-
-Interested in home pizza baking both as a weekly routine and as a special occasion interactive event.
+Personal interests include squash (the sport), pizza-making, and modern art.
 
 Served as the lead actor in a participatory theater experience to train 400 incoming TAs at the University of Minnesota (2008).
 
