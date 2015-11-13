@@ -28,7 +28,7 @@ Appointments
 
 \begin{tabular}{lll}
 
-Research Associate (GroupLens Research) & University of Minnesota & 2012 - present \\
+Research Scientist (GroupLens Research) & University of Minnesota & 2012 - present \\
 Software Developer & Code 42 Software & 2011 - 2012 \\
 Founder and Lead Developer & Blue Shift Software Laboratory & 2009 - 2011 \\
 Post-Doctoral Associate (GroupLens Research) & University of Minnesota & 2009 - 2010 \\
@@ -47,42 +47,28 @@ Programmer & FairIsaac & 1998 - 1999 \\
 Five Related Publications
 -------------------------
 
-**Harper, F.**, Sen, S., Frankowski, D. Supporting Social Recommendations with Activity-Balanced Clustering. RecSys '07:Proceedings of the 2007 ACM conference on Recommender systems, 2007.
+Chang, S., Harper, F. M., & Terveen, L. (2015). Using Groups of Items for Preference Elicitation in Recommender Systems. In Proceedings of the 18th ACM Conference on Computer Supported Cooperative Work & Social Computing (pp. 1258–1269). New York, NY, USA: ACM.
 
-**Harper, F.**, Frankowski, D., Drenner, S., Ren, Y., Kiesler, S., Terveen, L., Kraut, R., Riedl, J.  Talk Amongst Yourselves: Inviting Users To Participate In Online Conversations.  IUI ’07: The 12th International Conference on Intelligent User Interfaces, Honolulu, HI, 2007.
+Ekstrand, M. D., Harper, F. M., Willemsen, M. C., & Konstan, J. A. (2014). User Perception of Differences in Recommender Algorithms. In Proceedings of the 8th ACM Conference on Recommender Systems (pp. 161–168). New York, NY, USA: ACM.
 
-**Harper, F.**, Li, X., Chen, Y., Konstan, J., Social Comparisons to Motivate Contributions to an Online Community. The 2nd International Conference on Persuasive Technology (PERSUASIVE 2007), 2007.
+Harper, F. M., Li, X., Chen, Y., & Konstan, J. A. (2005). An Economic Model of User Rating in an Online Recommender System. In L. Ardissono, P. Brna, & A. Mitrovic (Eds.), User Modeling 2005 (pp. 307–316). Springer Berlin Heidelberg.
 
-Sen, S., **Harper, F.**, LaPitz, A., Riedl, J. The Quest for Quality Tags. International Conference on Supporting Group Work (Group), 2007.
+Harper, F. M., Sen, S., & Frankowski, D. (2007). Supporting Social Recommendations with Activity-balanced Clustering. In Proceedings of the 2007 ACM Conference on Recommender Systems (pp. 165–168). New York, NY, USA: ACM.
 
-Sen, S., Lam, S., Cosley, D., Rashid, A., Frankowski, D., Osterhouse, J., **Harper, F.**, Riedl, J., tagging, community, vocabulary, evolution. 20th Anniversary Conference on Computer supported cooperative work, 2006.
-
-
-<!--
-Logie, J., Weinberg, J., **Harper, F.**, Konstan, J. Asked and Answered: On Qualities and Quantities of Answers in Online Q&A Sites. Fifth International AAAI Conference on Weblogs and Social Media, 2011.
-
-**Harper, F.**, Weinberg, J., Logie, J., Konstan, J. Question Types in Social Q&A Sites. First Monday, 15 (7), 2010.
-
-
-**Harper, F.**, Moy, D., Konstan, J. Facts or Friends? Distinguishing Informational and Conversational Questions in Social Q&A Sites. CHI ’09: SIGCHI Conference on Human Factors in Computing Systems.
-
-Raban, D., **Harper, F.** Motivations for Answering Questions Online. In Azran, T., Caspi, D. (Eds.) New Media and Innovative Technologies, 2008.
-
--->
-
+Harper, F. M., Xu, F., Kaur, H., Condiff, K., Chang, S., & Terveen, L. (2015). Putting Users in Control of Their Recommendations. In Proceedings of the 9th ACM Conference on Recommender Systems (pp. 3–10). New York, NY, USA: ACM.
 
 Five Other Significant Publications
 -----------------------------------
 
-Ren, Y., **Harper, F.**, Drenner, S., Terveen, L., Kiesler, S., Riedl, J., Kraut, R. Building Member Attachment in Online Communities: Applying Theories of Group Identity and Interpersonal Bonds. MIS Quarterly, 36 (3), 2012.
+Chen, Y., Harper, F. M., Konstan, J., & Li, S. X. (2010). Social Comparisons and Contributions to Online Communities: A Field Experiment on MovieLens. The American Economic Review, 100(4), 1358–1398.
 
-Pal, A., **Harper, F.**, Konstan, J. Exploring Question Selection Bias to Identify Experts and Potential Experts in Community Question Answering. ACM Transactions on Information Systems (TOIS), 30 (2), 2012.
+Harper, F. M., Li, S. X., Chen, Y., & Konstan, J. A. (2007). Social Comparisons to Motivate Contributions to an Online Community. In Y. de Kort, W. IJsselsteijn, C. Midden, B. Eggen, & B. J. Fogg (Eds.), Persuasive Technology (pp. 148–159). Springer Berlin Heidelberg.
 
-Chen, Y., **Harper, F.**, Konstan, J., Li, X. Social Comparisons and Contributions to Online Communities: A Field Experiment on MovieLens. American Economic Review, 100 (4), 2010.
+Harper, F. M., Moy, D., & Konstan, J. A. (2009). Facts or Friends?: Distinguishing Informational and Conversational Questions in Social Q&A Sites. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (pp. 759–768). New York, NY, USA: ACM.
 
-**Harper, F.**, Raban, D., Rafaeli, S., Konstan, J. Predictors of Answer Quality in Online Q&A Sites. CHI ’08: SIGCHI Conference on Human Factors in Computing Systems, Florence, IT, 2008.
+Harper, F. M., Raban, D., Rafaeli, S., & Konstan, J. A. (2008). Predictors of Answer Quality in Online Q&A Sites. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (pp. 865–874). New York, NY, USA: ACM.
 
-**Harper, F.**, Li, X., Chen, Y., Konstan, J. An Economic Model of User Rating in an Online Recommender System.  In UM ’05: The 10th International Conference on User Modeling, Edinburgh, UK, 2005, pp. 307-316.
+Ren, Y., Harper, F. M., Drenner, S., Terveen, L. G., Kiesler, S. B., Riedl, J., & Kraut, R. E. (2012). Building Member Attachment in Online Communities: Applying Theories of Group Identity and Interpersonal Bonds. Mis Quarterly, 36(3), 841–864.
 
 
 Professional and Synergistic Activities
@@ -90,7 +76,7 @@ Professional and Synergistic Activities
 
 Program Committee Member (World Wide Web 2011, Recommender Systems 2009, 2010 workshops on Recommenders and the Social Web, Recommender Systems 2008, Adaptive Hypermedia 2008 workshop on Adaptation in the Social Web, Interact 2007 workshop on Design Principles for Software that Engages Users, User Modeling 2007 workshop on Adaptation and Personalization in Social Systems, Adaptive Hypermedia 2006 workshop on Social Navigation and Community Based Adaptation Technologies)
 
-Reviewer (CHI 2006-2010, CSCW 2006-2010, ACM TWEB 2008, 2010, RecSys 2008, Hypertext 2007, Mobiquitous 2007, ECR 2007, IUI 2007, AH 2006)
+Reviewer (CHI 2006-present, CSCW 2006-present, ACM TWEB 2008, 2010, RecSys 2008, Hypertext 2007, Mobiquitous 2007, ECR 2007, IUI 2007, AH 2006)
 
 Invited Lecturer (Minnedemo 2011, Best Buy 2010, Thompson Reuters 2010, Adventium Labs 2009, IBM Research 2008)
 
@@ -100,32 +86,19 @@ Collaborators
 
 \begin{tabular}{ll}
 
-Michael Cassano & Red Hat \\
-Yan Chen & University of Michigan \\
-Ben Congleton & OLark \\
-Dan Cosley & Cornell University \\
-Jason Xiao Dong & Microsoft \\
-Sara Drenner & BI Worldwide \\
-Dan Frankowski & Code 42 Software \\
-Sara Kiesler  & Carnegie-Mellon University \\
-Robert Kraut & Carnegie-Mellon University \\
-Xin (Sherry) Li & University of Texas at Dallas \\
-Pamela Ludford Finnerty & Solutia Consulting \\
-John Logie & University of Minnesota \\
+Shuo (Steven) Chang & University of Minnesota \\
+Kyle Condiff & University of Minnesota \\
+Michael Ekstrand & Texas State University \\
+Brent Hecht & University of Minnesota \\
+Pik-Mai Hui & Indiana University \\
+Harmanpreet Kaur & University of Minnesota \\
+Daniel Kluver & University of Minnesota \\
 Joseph Konstan & University of Minnesota \\
-Joseph Weinberg & University of Minnesota \\
-Joe McCarthy & University of Washington \\
-Daniel Moy & Google \\
-Aditya Pal & IBM Research \\
-Daphne Raban & Haifa University \\
-Sheizaf Rafaeli & Haifa University \\
-Al Rashid & Intel \\
-Shilad Sen & Macalaster College \\
-Shyong K. (Tony) Lam & Google \\
-Scott Yilek & University of St. Thomas \\
-Yuqing Ren & University of Minnesota \\
-John Riedl & University of Minnesota \\
+Tien Nguyen & University of Minnesota \\
 Loren Terveen & University of Minnesota \\
+Ting-Yu Wang & Terrapin Technologies, Inc. \\
+Martijn Willemsen & Eindhoven University of Technology \\
+Funing Xu & University of Illinois at Urbana-Champaign \\
 
 \end{tabular}
 
