@@ -1,8 +1,9 @@
+Max Harper's CV
+
 To build:
 
- rake
+    make
 
 Resources:
 
 * https://github.com/jgm/pandoc-templates
-
