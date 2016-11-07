@@ -1,4 +1,4 @@
-<!-- no headers or footers --> 
+<!-- no headers or footers -->
 \pagestyle{empty}
 
 F. Maxwell Harper
@@ -44,8 +44,12 @@ Programmer & FairIsaac & 1998 - 1999 \\
 \end{tabular}
 
 
-Five Related Publications
--------------------------
+Publications
+------------
+
+### Five Related Publications
+
+Chang, S., Harper, F.M., & Terveen, L. (2015). Crowd-Based Personalized Natural Language Explanations for Recommendations. In Proceedings of the 10th ACM Conference on Recommender Systems (pp. 175-182). New York, NY, USA: ACM.
 
 Chang, S., Harper, F. M., & Terveen, L. (2015). Using Groups of Items for Preference Elicitation in Recommender Systems. In Proceedings of the 18th ACM Conference on Computer Supported Cooperative Work & Social Computing (pp. 1258–1269). New York, NY, USA: ACM.
 
@@ -53,12 +57,9 @@ Ekstrand, M. D., Harper, F. M., Willemsen, M. C., & Konstan, J. A. (2014). User 
 
 Harper, F. M., Li, X., Chen, Y., & Konstan, J. A. (2005). An Economic Model of User Rating in an Online Recommender System. In L. Ardissono, P. Brna, & A. Mitrovic (Eds.), User Modeling 2005 (pp. 307–316). Springer Berlin Heidelberg.
 
-Harper, F. M., Sen, S., & Frankowski, D. (2007). Supporting Social Recommendations with Activity-balanced Clustering. In Proceedings of the 2007 ACM Conference on Recommender Systems (pp. 165–168). New York, NY, USA: ACM.
-
 Harper, F. M., Xu, F., Kaur, H., Condiff, K., Chang, S., & Terveen, L. (2015). Putting Users in Control of Their Recommendations. In Proceedings of the 9th ACM Conference on Recommender Systems (pp. 3–10). New York, NY, USA: ACM.
 
-Five Other Significant Publications
------------------------------------
+### Other Significant Publications
 
 Chen, Y., Harper, F. M., Konstan, J., & Li, S. X. (2010). Social Comparisons and Contributions to Online Communities: A Field Experiment on MovieLens. The American Economic Review, 100(4), 1358–1398.
 
@@ -71,45 +72,11 @@ Harper, F. M., Raban, D., Rafaeli, S., & Konstan, J. A. (2008). Predictors of An
 Ren, Y., Harper, F. M., Drenner, S., Terveen, L. G., Kiesler, S. B., Riedl, J., & Kraut, R. E. (2012). Building Member Attachment in Online Communities: Applying Theories of Group Identity and Interpersonal Bonds. Mis Quarterly, 36(3), 841–864.
 
 
-Professional and Synergistic Activities
----------------------------------------
+Synergistic Activities
+----------------------
 
-Program Committee Member (World Wide Web 2011, Recommender Systems 2009, 2010 workshops on Recommenders and the Social Web, Recommender Systems 2008, Adaptive Hypermedia 2008 workshop on Adaptation in the Social Web, Interact 2007 workshop on Design Principles for Software that Engages Users, User Modeling 2007 workshop on Adaptation and Personalization in Social Systems, Adaptive Hypermedia 2006 workshop on Social Navigation and Community Based Adaptation Technologies)
+Program Committee Member (World Wide Web 2011, Recommender Systems 2009 and 2016, 2010 workshops on Recommenders and the Social Web, Recommender Systems 2008, Adaptive Hypermedia 2008 workshop on Adaptation in the Social Web, Interact 2007 workshop on Design Principles for Software that Engages Users, User Modeling 2007 workshop on Adaptation and Personalization in Social Systems, Adaptive Hypermedia 2006 workshop on Social Navigation and Community Based Adaptation Technologies)
 
-Reviewer (CHI 2006-present, CSCW 2006-present, ACM TWEB 2008, 2010, RecSys 2008, Hypertext 2007, Mobiquitous 2007, ECR 2007, IUI 2007, AH 2006)
+Reviewer (CHI 2006-present, CSCW 2006-present, ACM TWEB 2008, 2010, RecSys 2008 and 2016, Hypertext 2007, Mobiquitous 2007, ECR 2007, IUI 2007, AH 2006)
 
 Invited Lecturer (Minnedemo 2011, Best Buy 2010, Thompson Reuters 2010, Adventium Labs 2009, IBM Research 2008)
-
-
-Collaborators
--------------
-
-\begin{tabular}{ll}
-
-Shuo (Steven) Chang & University of Minnesota \\
-Kyle Condiff & University of Minnesota \\
-Michael Ekstrand & Texas State University \\
-Brent Hecht & University of Minnesota \\
-Pik-Mai Hui & Indiana University \\
-Harmanpreet Kaur & University of Minnesota \\
-Daniel Kluver & University of Minnesota \\
-Joseph Konstan & University of Minnesota \\
-Tien Nguyen & University of Minnesota \\
-Loren Terveen & University of Minnesota \\
-Ting-Yu Wang & Terrapin Technologies, Inc. \\
-Martijn Willemsen & Eindhoven University of Technology \\
-Funing Xu & University of Illinois at Urbana-Champaign \\
-
-\end{tabular}
-
-
-Graduate Adviser
-----------------
-
-\begin{tabular}{ll}
-
-Joseph A. Konstan & University of Minnesota \\
-
-\end{tabular}
-
-
