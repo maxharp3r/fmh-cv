@@ -49,7 +49,7 @@ Publications
 
 ### Five Related Publications
 
-Chang, S., Harper, F.M., & Terveen, L. (2015). Crowd-Based Personalized Natural Language Explanations for Recommendations. In Proceedings of the 10th ACM Conference on Recommender Systems (pp. 175-182). New York, NY, USA: ACM.
+Chang, S., Harper, F.M., & Terveen, L. (2016). Crowd-Based Personalized Natural Language Explanations for Recommendations. In Proceedings of the 10th ACM Conference on Recommender Systems (pp. 175-182). New York, NY, USA: ACM.
 
 Chang, S., Harper, F. M., & Terveen, L. (2015). Using Groups of Items for Preference Elicitation in Recommender Systems. In Proceedings of the 18th ACM Conference on Computer Supported Cooperative Work & Social Computing (pp. 1258–1269). New York, NY, USA: ACM.
 
