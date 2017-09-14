@@ -1,14 +1,18 @@
-<!-- first page should not have headers or footers --> 
+<!-- first page should not have headers or footers -->
 \thispagestyle{empty}
 
-<!-- header with my name and page number --> 
+<!-- header with my name and page number -->
 \pagestyle{myheadings}
 \markright{F. Maxwell Harper\hfill}
 
 F. Maxwell Harper
 =================
 
-3120 E 25th St. / Minneapolis, MN / maxharp3r@gmail.com / 612-724-8432
+University of Minnesota \newline
+Department of Computer Science and Engineering \newline
+200 Union St SE, Minneapolis, MN, 55455 \newline
+max@umn.edu \newline
+ <http://cs.umn.edu/~harper/>
 
 
 Education
@@ -35,9 +39,9 @@ Professional and Research Experience
 University of Minnesota, Minneapolis, MN
 :   (2012 - present)  
     Research Scientist  
-    Leading research projects and developing research platforms in the areas of recommender systems and social computing.
-    Managing computing resources for GroupLens research lab.
-    Mentoring graduate and undergraduate students.
+    Lead research projects at the GroupLens Center for Social and Human-Centered Computing
+    in the areas of recommender systems and social computing.
+    Mentor graduate and undergraduate students in research and software development.
 
 Code 42 Software, Minneapolis, MN
 :   (2011 - 2012)  
@@ -57,14 +61,14 @@ Blue Shift Software Laboratory, Minneapolis, MN
     Founded a startup business with the broad goal of providing software that supports data-driven decision-making through the synthesis and visualization of existing knowledge.
     Launched thinkmeter.com and eventburn.com, both hosted on Google App Engine.
 
-GroupLens Research Lab, University of Minnesota, MN
+University of Minnesota, MN
 :   (20% - 50% time, 2009 - 2010)  
     Post-Doctoral Associate  
     Coordinated research efforts between the GroupLens research group and scholars from the Department of Writing Studies.
     Developed machine learning techniques that can infer the intent of users of social software.
     Contributed to an NSF grant to extend the group’s work on question and answer Web sites. Mentored graduate students.
 
-GroupLens Research Lab, University of Minnesota, MN
+University of Minnesota, MN
 :   (2004 - 2009)  
     Research Assistant  
     Led and participated in several research teams, with the overarching goal of learning and publishing about user behavior in online systems.
@@ -84,7 +88,7 @@ Walker Art Center, Minneapolis, MN
     Administered approximately 30 new media web sites hosted on Linux and BSD servers.
     Maintained and developed code for dynamic content display.
     Consulted on network security, data backup, and performance issues.
-    
+
 National Civic League, Denver, CO
 :   (2001 - 2003)  
     Web Manager  
@@ -112,46 +116,28 @@ Fair Isaac Corporation, St. Paul, MN
     Worked with the marketing department at Chase Manhattan Bank to develop business requirements and program specifications.
 
 
-Teaching Experience
--------------------
-
-Department of Computer Science, University of Minnesota, MN
-:   (2007)  
-    Instructor  
-
-    *   CSCI 4061, Spring 2007. Introduction to Operating Systems  
-        Instructor for junior- and senior-level course on operating systems concepts and UNIX systems programming in C.
-        Lectured to 107 students. Managed 3 teaching assistants.
-        Extended existing curriculum. Wrote labs, homework assignments, and examinations.
-    
-Department of Computer Science, University of Minnesota, MN
-:   (2005)  
-    Teaching Assistant  
-
-    *   CSCI 1902, Fall 2005. Structure of Computer Programming 2  
-        Planned and led three lab sections per week, 30 students per lab.
-        Wrote and graded examinations and Java programming assignments.
-        Lectured in absence of Professor.
-        Held office hours.
-    *   CSCI 1001, Spring 2005. An Overview of Computer Science  
-        Planned and led two lab sections per week, 10 students per lab.
-        Wrote and graded Python programming assignments, written assignments, and tests.
-        Held office hours.
-
-Department of Software Engineering, University of Minnesota, MN
-:   (2003 - 2004)  
-    Teaching Assistant  
-
-    *   SENG 5801, Fall 2003 and Fall 2004. Software Engineering 1  
-        Graded written assignments and programming assignments in VDM-SL (2003) or Z (2004).
-        Held office hours.
-    *   SENG 5115, Spring 2004. GUI Design and Evaluation  
-        Graded written assignments and user interface design assignments.
-        Held office hours.
-
-
 Peer-Reviewed Publications
 --------------------------
+
+Kang, J., Condiff, K., Chang, S., Konstan, J.A., Terveen, L., **Harper, F.M.** Understanding How People Use Natural Language to Ask for Recommendations. Proceedings of the Eleventh ACM Conference on Recommender Systems, 2017.
+
+**Harper, F.M.**. Recommender Popularity Controls: An Observational Study. Poster Proceeding of ACM Recsys 2017.
+
+Nguyen, T.T., **Harper, F.M.**, Terveen, L., Konstan, J.A. User Personality and User Satisfaction with Recommender Systems. Information Systems Frontiers. (Sep. 2017), 2017.
+
+Sharma, M., **Harper, F.M.**, Karypis, G. Learning from Sets of Items in Recommender Systems. eKNOW 2017: The Ninth International Conference on Information, Process, and Knowledge Management, 2017. Best Paper Award.
+
+Zhao, Q., Adomavicius, G., **Harper, F.M.**, Willemsen, M., Konstan, J.A. Toward Better Interactions in Recommender Systems: Cycling and Serpentining Approaches for Top-N Item Lists. Proceedings of the 2017 ACM Conference on Computer Supported Cooperative Work and Social Computing, 2017.
+
+Zhao, Q., Chang, S., **Harper, F.M.**, Konstan, J.A. Gaze Prediction for Recommender Systems. Proceedings of the 10th ACM Conference on Recommender Systems, 2016.
+
+Zhao, Q., Huang, Z., **Harper, F.M.**, Terveen, L. and Konstan, J.A. Precision CrowdSourcing: Closing the Loop to Turn Information Consumers into Information Contributors. Proceedings of the 19th ACM Conference on Computer-Supported Cooperative Work & Social Computing, 2016.
+
+**Harper, F.M.**, Konstan, J.A. The MovieLens Datasets: History and Context. ACM Transactions on Interactive and Intelligent Systems, 5 (4), 2015.
+
+Chang, S., **Harper, F.M.**, He, L., Terveen, L.G. CrowdLens: Experimenting with Crowd-Powered Recommendation and Explanation. Tenth International AAAI Conference on Web and Social Media, 2016.
+
+Chang, S., **Harper, F.M.**, Terveen, L.G. 2016. Crowd-Based Personalized Natural Language Explanations for Recommendations. Proceedings of the 10th ACM Conference on Recommender Systems, 2016.
 
 **Harper, F.**, Xu, F., Kaur, H., Condiff, K., Chang, S., Terveen, T. Putting Users in Control of Their Recommendations. RecSys '15: Proceedings of the 9th ACM Conference on Recommender Systems, 2015.
 
@@ -230,44 +216,96 @@ Professional Activities
 Program Committee Member
 :   (2006 - present)
 
-    *   International World Wide Web Conference (WWW): 2011
-    *   ACM Conference on Recommender Systems (RecSys) workshop on “Recommenders and the Social Web”: 2009, 2010
-    *   ACM Conference on Recommender Systems (RecSys): 2008
-    *   International Conference on Adaptive Hypermedia (AH) workshop on “Adaptation in the Social Web”: 2008
-    *   International Conference on Human-Computer Interaction (INTERACT) workshop on “Design Principles for Software that Engages Users”: 2007
-    *   International Conference on User Modeling (UM) workshop on “Adaptation and Personalization in Social Systems: Groups, Teams, Communities”: 2007
-    *   International Conference on Adaptive Hypermedia (AH) workshop on “Social Navigation and Community Based Adaptation Technologies”: 2006
+* ACM TiiS Board of Distinguished Reviewers: 2017-present
+* ACM Conference on Recommender Systems (RecSys): 2008-present
+* International World Wide Web Conference (WWW): 2011
+* ACM Conference on Recommender Systems (RecSys) workshop on “Recommenders and the Social Web”: 2009, 2010
+* International Conference on Adaptive Hypermedia (AH) workshop on “Adaptation in the Social Web”: 2008
+* International Conference on Human-Computer Interaction (INTERACT) workshop on “Design Principles for Software that Engages Users”: 2007
+* International Conference on User Modeling (UM) workshop on “Adaptation and Personalization in Social Systems: Groups, Teams, Communities”: 2007
+* International Conference on Adaptive Hypermedia (AH) workshop on “Social Navigation and Community Based Adaptation Technologies”: 2006
 
+NSF Panelist  
+:   (2017.)
+
+* Information & Intelligent Systems: 2017
 
 Reviewer
 :   (2006 - present)
 
-    *   SIGCHI Conference on Human Factors in Computing Systems (CHI): 2006-present
-    *   ACM Conference on Computer Supported Cooperative Work (CSCW): 2006-present
-    *   ACM Transactions on the Web (TWEB): 2008, 2010
-    *   ACM Conference on Recommender Systems (RecSys) workshop on “Recommenders and the Social Web”: 2009, 2010
-    *   International Conference on Computational Linguistics (COLING): 2010
-    *   ACM Conference on Recommender Systems (RecSys): 2008, 2009
-    *   International Conference on Communities and Technologies (C&T): 2009
-    *   ACM Conference on Hypertext and Hypermedia (Hypertext): 2007
-    *   International Conference on Mobile and Ubiquitous Systems (Mobiquitous): 2007
-    *   Electronic Commerce Research (ECR): 2007
-    *   International Conference on Intelligent User Interfaces (IUI): 2007
-    *   International Conference on Adaptive Hypermedia (AH): 2006
+* SIGCHI Conference on Human Factors in Computing Systems (CHI): 2006-present
+* ACM Conference on Computer Supported Cooperative Work (CSCW): 2006-present
+* ACM Conference on Recommender Systems (RecSys): 2008-present
+* ACM Transactions on the Web (TWEB): 2008, 2010, 2017
+* ACM Transactions on Intelligent Systems and Technology (TIST): 2017
+* Online Information Review (OIR): 2017
+* International World Wide Web Conference (WWW): 2011
+* ACM Conference on Recommender Systems (RecSys) workshop on “Recommenders and the Social Web”: 2009, 2010
+* International Conference on Computational Linguistics (COLING): 2010
+* ACM Special Interest Group on Information Retrieval (SIGIR): 2010
+* Journal of Computer-Mediated Communication (JCMC): 2010
+* International Conference on Communities and Technologies (C&T): 2009
+* ACM Conference on Hypertext and Hypermedia (Hypertext): 2007
+* International Conference on Mobile and Ubiquitous Systems (Mobiquitous): 2007
+* Electronic Commerce Research (ECR): 2007
+* International Conference on Intelligent User Interfaces (IUI): 2007
+* International Conference on Adaptive Hypermedia (AH): 2006
 
 Student Volunteer
 :   (2004, 2007-2008)
 
-    *   SIGCHI Conference on Human Factors in Computing Systems (CHI) 2008
-    *   International Conference on User Modeling (UM) 2007
-    *   Usability Professionals’ Association (UPA) 2004
+* SIGCHI Conference on Human Factors in Computing Systems (CHI) 2008
+* International Conference on User Modeling (UM) 2007
+* Usability Professionals’ Association (UPA) 2004
+
+
+Teaching Experience
+-------------------
+
+Department of Computer Science, University of Minnesota, MN
+:   (2007 - present)  
+    Instructor  
+
+    *   CSCI 5117, Fall 2016, 2017. Developing the Interactive Web  
+        Instructor for graduate-level course on modern web development, including node.js and react.
+        Lecture to 40-50 students. Manage 1-2 teaching assistants.
+    *   CSCI 4061, Spring 2007. Introduction to Operating Systems  
+        Instructor for junior- and senior-level course on operating systems concepts and UNIX systems programming in C.
+        Lectured to 107 students. Managed 3 teaching assistants.
+        Extended existing curriculum. Wrote labs, homework assignments, and examinations.
+
+Department of Computer Science, University of Minnesota, MN
+:   (2005.)  
+    Teaching Assistant  
+
+    *   CSCI 1902, Fall 2005. Structure of Computer Programming 2  
+        Planned and led three lab sections per week, 30 students per lab.
+        Wrote and graded examinations and Java programming assignments.
+        Lectured in absence of Professor.
+        Held office hours.
+    *   CSCI 1001, Spring 2005. An Overview of Computer Science  
+        Planned and led two lab sections per week, 10 students per lab.
+        Wrote and graded Python programming assignments, written assignments, and tests.
+        Held office hours.
+
+Department of Software Engineering, University of Minnesota, MN
+:   (2003 - 2004)  
+    Teaching Assistant  
+
+    *   SENG 5801, Fall 2003 and Fall 2004. Software Engineering 1  
+        Graded written assignments and programming assignments in VDM-SL (2003) or Z (2004).
+        Held office hours.
+    *   SENG 5115, Spring 2004. GUI Design and Evaluation  
+        Graded written assignments and user interface design assignments.
+        Held office hours.
+
 
 
 Departmental Service
 --------------------
 
 GroupLens Research, University of Minnesota, MN
-:   (2006)  
+:   (2006.)  
     Organizer, CommunityLab Seminar  
     Organized and managed the CommunityLab Seminar, a multi-site research discussion group.
 
@@ -290,4 +328,3 @@ Personal interests include squash (the sport), pizza-making, and modern art.
 Served as the lead actor in a participatory theater experience to train 400 incoming TAs at the University of Minnesota (2008).
 
 Four year All-America and Academic All-America swimmer at Carleton College.  Also served as the team captain.
-
