@@ -4,11 +4,11 @@
 F. Maxwell Harper
 =================
 
-Research Scientist
-University of Minnesota  
-Department of Computer Science and Engineering  
-612-724-8432
-harper@cs.umn.edu
+Research Scientist \newline
+University of Minnesota \newline
+Department of Computer Science and Engineering \newline
+612-724-8432 \newline
+max@umn.edu
 
 
 Professional Preparation
@@ -49,13 +49,13 @@ Publications
 
 ### Five Related Publications
 
+Kang, J., Condiff, K., Chang, S., Konstan, J. A., Terveen, L., & Harper, F. M. (2017). Understanding How People Use Natural Language to Ask for Recommendations. In Proceedings of the Eleventh ACM Conference on Recommender Systems (pp. 229–237). New York, NY, USA: ACM.
+
 Chang, S., Harper, F.M., & Terveen, L. (2016). Crowd-Based Personalized Natural Language Explanations for Recommendations. In Proceedings of the 10th ACM Conference on Recommender Systems (pp. 175-182). New York, NY, USA: ACM.
 
 Chang, S., Harper, F. M., & Terveen, L. (2015). Using Groups of Items for Preference Elicitation in Recommender Systems. In Proceedings of the 18th ACM Conference on Computer Supported Cooperative Work & Social Computing (pp. 1258–1269). New York, NY, USA: ACM.
 
 Ekstrand, M. D., Harper, F. M., Willemsen, M. C., & Konstan, J. A. (2014). User Perception of Differences in Recommender Algorithms. In Proceedings of the 8th ACM Conference on Recommender Systems (pp. 161–168). New York, NY, USA: ACM.
-
-Harper, F. M., Li, X., Chen, Y., & Konstan, J. A. (2005). An Economic Model of User Rating in an Online Recommender System. In L. Ardissono, P. Brna, & A. Mitrovic (Eds.), User Modeling 2005 (pp. 307–316). Springer Berlin Heidelberg.
 
 Harper, F. M., Xu, F., Kaur, H., Condiff, K., Chang, S., & Terveen, L. (2015). Putting Users in Control of Their Recommendations. In Proceedings of the 9th ACM Conference on Recommender Systems (pp. 3–10). New York, NY, USA: ACM.
 
@@ -75,8 +75,8 @@ Ren, Y., Harper, F. M., Drenner, S., Terveen, L. G., Kiesler, S. B., Riedl, J., 
 Synergistic Activities
 ----------------------
 
-Program Committee Member (World Wide Web 2011, Recommender Systems 2009 and 2016, 2010 workshops on Recommenders and the Social Web, Recommender Systems 2008, Adaptive Hypermedia 2008 workshop on Adaptation in the Social Web, Interact 2007 workshop on Design Principles for Software that Engages Users, User Modeling 2007 workshop on Adaptation and Personalization in Social Systems, Adaptive Hypermedia 2006 workshop on Social Navigation and Community Based Adaptation Technologies)
+Program Committee Member (Recommender Systems 2009-present, World Wide Web 2011, 2010 workshops on Recommenders and the Social Web, Recommender Systems 2008, Adaptive Hypermedia 2008 workshop on Adaptation in the Social Web, Interact 2007 workshop on Design Principles for Software that Engages Users, User Modeling 2007 workshop on Adaptation and Personalization in Social Systems, Adaptive Hypermedia 2006 workshop on Social Navigation and Community Based Adaptation Technologies)
 
-Reviewer (CHI 2006-present, CSCW 2006-present, ACM TWEB 2008, 2010, RecSys 2008 and 2016, Hypertext 2007, Mobiquitous 2007, ECR 2007, IUI 2007, AH 2006)
+Reviewer (CHI 2006-present, CSCW 2006-present, ACM TWEB 2008, 2010, RecSys 2009-present, Hypertext 2007, Mobiquitous 2007, ECR 2007, IUI 2007, AH 2006)
 
 Invited Lecturer (Minnedemo 2011, Best Buy 2010, Thompson Reuters 2010, Adventium Labs 2009, IBM Research 2008)
