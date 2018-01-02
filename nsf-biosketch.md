@@ -69,14 +69,16 @@ Harper, F. M., Moy, D., & Konstan, J. A. (2009). Facts or Friends?: Distinguishi
 
 Harper, F. M., Raban, D., Rafaeli, S., & Konstan, J. A. (2008). Predictors of Answer Quality in Online Q&A Sites. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (pp. 865–874). New York, NY, USA: ACM.
 
-Ren, Y., Harper, F. M., Drenner, S., Terveen, L. G., Kiesler, S. B., Riedl, J., & Kraut, R. E. (2012). Building Member Attachment in Online Communities: Applying Theories of Group Identity and Interpersonal Bonds. Mis Quarterly, 36(3), 841–864.
+Ren, Y., Harper, F. M., Drenner, S., Terveen, L. G., Kiesler, S. B., Riedl, J., & Kraut, R. E. (2012). Building Member Attachment in Online Communities: Applying Theories of Group Identity and Interpersonal Bonds. MIS Quarterly, 36(3), 841–864.
 
 
 Synergistic Activities
 ----------------------
 
-Program Committee Member (Recommender Systems 2009-present, World Wide Web 2011, 2010 workshops on Recommenders and the Social Web, Recommender Systems 2008, Adaptive Hypermedia 2008 workshop on Adaptation in the Social Web, Interact 2007 workshop on Design Principles for Software that Engages Users, User Modeling 2007 workshop on Adaptation and Personalization in Social Systems, Adaptive Hypermedia 2006 workshop on Social Navigation and Community Based Adaptation Technologies)
+Conference Program Committee Member: Recommender Systems (2009-present), The Web Conference (2011).
 
-Reviewer (CHI 2006-present, CSCW 2006-present, ACM TWEB 2008, 2010, RecSys 2009-present, Hypertext 2007, Mobiquitous 2007, ECR 2007, IUI 2007, AH 2006)
+Workshop Program Committee Member: Workshop on Online Recommender Systems and User Modeling (WWW 2018), Workshop on Recommenders and the Social Web (Recommender Systems 2008), Workshop on Adaptation in the Social Web (Adaptive Hypermedia 2008), Workshop on Design Principles for Software that Engages Users (Interact 2007), Workshop on Adaptation and Personalization in Social Systems (User Modeling 2007), Workshop on Social Navigation and Community Based Adaptation Technologies (Adaptive Hypermedia 2006).
 
-Invited Lecturer (Minnedemo 2011, Best Buy 2010, Thompson Reuters 2010, Adventium Labs 2009, IBM Research 2008)
+Reviewer: CHI (2006-present), CSCW (2006-present), ACM TWEB (2008, 2010), RecSys (2009-present), Hypertext (2007), Mobiquitous (2007), ECR (2007), IUI (2007), AH (2006).
+
+Invited Lecturer: Minnedemo (2011), Best Buy (2010), Thompson Reuters (2010), Adventium Labs (2009), IBM Research (2008).

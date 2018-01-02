@@ -12,7 +12,7 @@ University of Minnesota \newline
 Department of Computer Science and Engineering \newline
 200 Union St SE, Minneapolis, MN, 55455 \newline
 max@umn.edu \newline
- <http://cs.umn.edu/~harper/>
+ <http://cs.umn.edu/~max/>
 
 
 Education
@@ -39,9 +39,9 @@ Professional and Research Experience
 University of Minnesota, Minneapolis, MN
 :   (2012 - present)  
     Research Scientist  
-    Lead research projects at the GroupLens Center for Social and Human-Centered Computing
+    Leads research projects at the GroupLens Center for Social and Human-Centered Computing
     in the areas of recommender systems and social computing.
-    Mentor graduate and undergraduate students in research and software development.
+    Mentors graduate and undergraduate students in research and software development.
 
 Code 42 Software, Minneapolis, MN
 :   (2011 - 2012)  
@@ -216,14 +216,15 @@ Professional Activities
 Program Committee Member
 :   (2006 - present)
 
-* ACM TiiS Board of Distinguished Reviewers: 2017-present
+* ACM Transactions on Intelligent Interactive Systems (TIIS) Board of Distinguished Reviewers: 2017-present
 * ACM Conference on Recommender Systems (RecSys): 2008-present
-* International World Wide Web Conference (WWW): 2011
-* ACM Conference on Recommender Systems (RecSys) workshop on “Recommenders and the Social Web”: 2009, 2010
-* International Conference on Adaptive Hypermedia (AH) workshop on “Adaptation in the Social Web”: 2008
-* International Conference on Human-Computer Interaction (INTERACT) workshop on “Design Principles for Software that Engages Users”: 2007
-* International Conference on User Modeling (UM) workshop on “Adaptation and Personalization in Social Systems: Groups, Teams, Communities”: 2007
-* International Conference on Adaptive Hypermedia (AH) workshop on “Social Navigation and Community Based Adaptation Technologies”: 2006
+* The Web Conference (WWW) workshop on "Online Recommender Systems and User Modeling": 2018
+* The Web Conference (WWW): 2011
+* ACM Conference on Recommender Systems (RecSys) workshop on "Recommenders and the Social Web": 2009, 2010
+* International Conference on Adaptive Hypermedia (AH) workshop on "Adaptation in the Social Web": 2008
+* International Conference on Human-Computer Interaction (INTERACT) workshop on "Design Principles for Software that Engages Users": 2007
+* International Conference on User Modeling (UM) workshop on "Adaptation and Personalization in Social Systems: Groups, Teams, Communities": 2007
+* International Conference on Adaptive Hypermedia (AH) workshop on "Social Navigation and Community Based Adaptation Technologies": 2006
 
 NSF Panelist  
 :   (2017.)
@@ -240,7 +241,7 @@ Reviewer
 * ACM Transactions on Intelligent Systems and Technology (TIST): 2017
 * Online Information Review (OIR): 2017
 * International World Wide Web Conference (WWW): 2011
-* ACM Conference on Recommender Systems (RecSys) workshop on “Recommenders and the Social Web”: 2009, 2010
+* ACM Conference on Recommender Systems (RecSys) workshop on "Recommenders and the Social Web": 2009, 2010
 * International Conference on Computational Linguistics (COLING): 2010
 * ACM Special Interest Group on Information Retrieval (SIGIR): 2010
 * Journal of Computer-Mediated Communication (JCMC): 2010
@@ -267,12 +268,14 @@ Department of Computer Science, University of Minnesota, MN
     Instructor  
 
     *   CSCI 5117, Fall 2016, 2017. Developing the Interactive Web  
-        Instructor for graduate-level course on modern web development, including node.js and react.
-        Lecture to 40-50 students. Manage 1-2 teaching assistants.
+        Graduate-level course on modern web development topics including node.js and react.
+        Original curriculum, 40-50 students, 1-2 teaching assistants.
+    *   CSCI 5991, Spring 2018. Data Science Methods for Social Computing  
+        Graduate-level seminar for researchers in social computing on data wrangling, visualization, and modeling.
+        10 students.
     *   CSCI 4061, Spring 2007. Introduction to Operating Systems  
-        Instructor for junior- and senior-level course on operating systems concepts and UNIX systems programming in C.
-        Lectured to 107 students. Managed 3 teaching assistants.
-        Extended existing curriculum. Wrote labs, homework assignments, and examinations.
+        Junior- and senior-level course on operating systems concepts and UNIX systems programming in C.
+        Revised existing curriculum, 107 students, 3 teaching assistants.
 
 Department of Computer Science, University of Minnesota, MN
 :   (2005.)  
