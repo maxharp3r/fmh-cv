@@ -205,6 +205,8 @@ Raban, D., **Harper, F.** Motivations for Answering Questions Online. In Azran, 
 Research Grants
 ---------------
 
+Building Blocks for Natural Language Recommenders, Amazon Research Awards, $100,000 for the period January, 2018 to January, 2019.
+
 HCC-Small: Understanding and Supporting Online Question-Answering Sites (co-author), National Science Foundation, $445,519 for the period July, 2008 to July, 2011.
 
 SBIR Phase I: Blue Shift Communities – Improving Online Technical Support (PI). National Science Foundation, $150,000 for the period January, 2010 to July, 2010.
@@ -218,6 +220,7 @@ Program Committee Member
 
 * ACM Transactions on Intelligent Interactive Systems (TIIS) Board of Distinguished Reviewers: 2017-present
 * ACM Conference on Recommender Systems (RecSys): 2008-present
+* ACM Conference on User Modeling, Adaptation and Personalization (UMAP): 2018
 * The Web Conference (WWW) workshop on "Online Recommender Systems and User Modeling": 2018
 * The Web Conference (WWW): 2011
 * ACM Conference on Recommender Systems (RecSys) workshop on "Recommenders and the Social Web": 2009, 2010
@@ -237,6 +240,7 @@ Reviewer
 * SIGCHI Conference on Human Factors in Computing Systems (CHI): 2006-present
 * ACM Conference on Computer Supported Cooperative Work (CSCW): 2006-present
 * ACM Conference on Recommender Systems (RecSys): 2008-present
+* IEEE Intelligent Systems (IS): 2018
 * ACM Transactions on the Web (TWEB): 2008, 2010, 2017
 * ACM Transactions on Intelligent Systems and Technology (TIST): 2017
 * Online Information Review (OIR): 2017
