@@ -10,4 +10,4 @@ Resources:
 
 Biosketch Notes:
 
-* export citations from zotero in APA format
+* export citations from zotero in APA format (use the "quick copy" feature)
