@@ -8,11 +8,8 @@
 F. Maxwell Harper
 =================
 
-University of Minnesota \newline
-Department of Computer Science and Engineering \newline
-200 Union St SE, Minneapolis, MN, 55455 \newline
-max@umn.edu \newline
- <http://cs.umn.edu/~max/>
+fmh@amazon.com \newline
+ <https://maxharp3r.github.io/>
 
 
 Education
@@ -36,13 +33,21 @@ Carleton College, Northfield, MN
 Professional and Research Experience
 ------------------------------------
 
+Amazon, Seattle, WA
+:   (2019 -- )  
+    *Senior Applied Scientist*.
+    Developing algorithms, models, and analysis to help ensure that Amazon's Choice is fair to all of its customers, and to protect customers' trust.
+    Led a project to detect offensive language using modern NLP techniques.
+    Currently developing techniques to measure algorithmic fairness, and conducting research in the areas of self-disclosure and interactive machine learning.
+
 University of Minnesota, Minneapolis, MN
-:   (2012 -- present)  
+:   (2012 -- 2019)  
     *Research Scientist*.
-    Leads research projects at the GroupLens Center for Social and Human-Centered Computing
+    <!-- official job title was "researcher 6" -->
+    Led research projects at the GroupLens Center for Social and Human-Centered Computing
     in the areas of recommender systems and social computing.
-    Manages the MovieLens code, community, and datasets (<https://movielens.org>).
-    Mentors graduate and undergraduate students in research and software development.
+    Managed the MovieLens code, community, and datasets (<https://movielens.org>).
+    Mentored graduate and undergraduate students in research and software development.
 
 Code 42 Software, Minneapolis, MN
 :   (2011 -- 2012)  
@@ -93,9 +98,9 @@ Teaching Experience
 -------------------
 
 Department of Computer Science, University of Minnesota, MN
-:   (2007, 2016 -- present)  
+:   (2007, 2016 -- 2019)  
     *Instructor*.
-    Teaches CSCI 5117, "Developing the Interactive Web," a graduate-level course (40-60 students, 1-2 TAs) on modern web development topics including node.js and react.
+    Taught CSCI 5117, "Developing the Interactive Web," a graduate-level course (40-60 students, 1-2 TAs) on modern web development topics including node.js and react.
     Previously taught CSCI 5991 (Spring 2018), "Data Science Methods for Social Computing," a graduate-level seminar (12 students) on data wrangling, visualization, and modeling.
     Previously taught CSCI 4061 (Spring 2007), "Introduction to Operating Systems," an undergraduate course (110 students, 3 TAs) on operating systems concepts and UNIX systems programming in C.
 
@@ -112,6 +117,20 @@ Department of Software Engineering, University of Minnesota, MN
 
 Peer-Reviewed Publications
 --------------------------
+
+Google Scholar: <https://scholar.google.com/citations?user=y9kaCjcAAAAJ&hl=en>
+
+<!-- export from zotero, use APA 7th edition format -->
+
+Wang, R., **Harper, F. M.**, & Zhu, H. (2020). Factors Influencing Perceived Fairness in Algorithmic Decision-Making: Algorithm Outcomes, Development Procedures, and Individual Differences. In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (pp. 1–14). Association for Computing Machinery. <https://doi.org/10.1145/3313831.3376813>
+
+Cheng, H.-F., Wang, R., Zhang, Z., O’Connell, F., Gray, T., **Harper, F. M.**, & Zhu, H. (2019). Explaining Decision-Making Algorithms through UI: Strategies to Help Non-Expert Stakeholders. In Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (pp. 1–12). Association for Computing Machinery. <https://doi.org/10.1145/3290605.3300789>
+
+McRoberts, S., Wissbroecker, J., Wang, R., & **Harper, F. M.** (2019). Exploring Interactions with Voice-Controlled TV. ArXiv:1905.05851 [Cs]. <http://arxiv.org/abs/1905.05851>
+
+Sharma, M., **Harper, F. M.**, & Karypis, G. (2019). Learning from Sets of Items in Recommender Systems. ACM Transactions on Interactive Intelligent Systems, 9(4), 19:1-19:26. <https://doi.org/10.1145/3326128>
+
+Zhao, Q., Willemsen, M. C., Adomavicius, G., **Harper, F. M.**, & Konstan, J. A. (2019). From preference into decision making: Modeling user interactions in recommender systems. Proceedings of the 13th ACM Conference on Recommender Systems, 29–33. <https://doi.org/10.1145/3298689.3347065>
 
 Yao, Y., & **Harper, F. M.** (2018). Judging Similarity: A User-centric Study of Related Item Recommendations. In Proceedings of the 12th ACM Conference on Recommender Systems (pp. 288–296). New York, NY, USA: ACM. <https://doi.org/10.1145/3240323.3240351>
 
