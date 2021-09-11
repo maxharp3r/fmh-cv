@@ -1,11 +1,14 @@
-.PHONY: all watch cv.pdf nsf-biosketch.pdf
+.PHONY: all watch cv resume nsf-biosketch
 
-all: cv.pdf nsf-biosketch.pdf
+all: cv resume nsf-biosketch
 
-cv.pdf: FORCE
-	pandoc -f markdown -o harper-cv.pdf --template=default.latex --variable geometry=margin=1in src/cv.md
+cv: FORCE
+	pandoc -f markdown -o harper-cv.pdf --template=default.latex --variable geometry=margin=1in src/header.md src/education.md src/professional.md src/teaching.md src/pubs.md src/grants.md src/research-service.md
 
-nsf-biosketch.pdf: FORCE
+resume: FORCE
+	pandoc -f markdown -o harper-resume.pdf --template=default.latex --variable geometry=margin=1in src/header.md src/education.md src/professional.md src/pubs-short.md src/research-service-short.md
+
+nsf-biosketch: FORCE
 	pandoc -f markdown -o harper-nsf-biosketch.pdf --template=default.latex --variable geometry=margin=0.75in src/nsf-biosketch.md
 
 watch:
