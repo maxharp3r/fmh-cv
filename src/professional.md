@@ -4,9 +4,9 @@ Professional and Research Experience
 Amazon, Seattle, WA
 :   (2019 -- )  
     *Senior Applied Scientist*.
-    Developing algorithms, models, and analysis to help ensure that Amazon's Choice is fair to all of its customers, and to protect customers' trust.
-    Led a project to detect offensive language using modern NLP techniques.
-    Currently developing techniques to measure algorithmic fairness, and conducting research in the areas of self-disclosure and interactive machine learning.
+    Developing algorithms, models, and analysis to improve the quality and trustworthiness of a widely-used Amazon recommender system.
+    Led a project to detect offensive language through problem definition, analysis, modeling, and launch; improved on the previous system from estimated F1 of 0.47 to 0.84.
+    Currently developing techniques to identify and mitigate algorithmic bias, and conducting research in the areas of self-disclosure detection and interactive machine learning.
 
 University of Minnesota, Minneapolis, MN
 :   (2012 -- 2019)  
@@ -16,6 +16,7 @@ University of Minnesota, Minneapolis, MN
     in the areas of recommender systems and social computing.
     Managed the MovieLens code, community, and datasets (<https://movielens.org>).
     Mentored graduate and undergraduate students in research and software development.
+    Taught "Developing the Interactive Web" (~50 students, 2 TAs) and a seminar on "Data Science Methods for Social Computing" (~10 students). 
 
 Code 42 Software, Minneapolis, MN
 :   (2011 -- 2012)  

@@ -5,8 +5,10 @@
 \pagestyle{myheadings}
 \markright{F. Maxwell Harper\hfill}
 
-F. Maxwell Harper
+F. Maxwell (Max) Harper
 =================
 
-fmh@amazon.com \newline
- <https://maxharp3r.github.io/>
+1716 Nob Hill Ave N. \newline
+Seattle, WA, 98109 \newline
+fmh@amazon.com
+ <!-- <https://maxharp3r.github.io/> -->
