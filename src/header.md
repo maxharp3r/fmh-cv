@@ -10,5 +10,5 @@ F. Maxwell (Max) Harper
 
 1716 Nob Hill Ave N. \newline
 Seattle, WA, 98109 \newline
-fmh@amazon.com
- <!-- <https://maxharp3r.github.io/> -->
+maxharp3r@gmail.com
+<!-- <https://maxharp3r.github.io/> -->

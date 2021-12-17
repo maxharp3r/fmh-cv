@@ -7,4 +7,5 @@ Experienced reviewer and committee member, including:
 * Amazon Machine Learning Conference (AMLC): Tutorials Chair, 2020--2021
 * ACM Special Interest Group on Information Retrieval (SIGIR): Senior Program Committee, 2019--present
 * ACM Transactions on Intelligent Interactive Systems (TIIS): Board of Distinguished Reviewers, 2017--present
+* ACM Transactions on Recommender Systems (TORS) Board of Reviewers: 2021--present
 * NSF Information & Intelligent Systems: Panelist, 2017

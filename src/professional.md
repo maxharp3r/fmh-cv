@@ -24,17 +24,17 @@ Code 42 Software, Minneapolis, MN
     Built server-side software for CrashPlan, a product with hundreds of thousands of users and many dozens of petabytes of backup data.
     Contributed to many efforts, with a focus on scalability and automated test coverage.
 
+Blue Shift Software Laboratory, Minneapolis, MN
+:   (2009 -- 2011)  
+    *Founder*.
+    Founded a startup business with the broad goal of providing software that supports data-driven decision-making through the synthesis and visualization of existing knowledge.
+    Launched thinkmeter.com and eventburn.com, both hosted on Google App Engine.
+
 Theophilus, Inc., New York, NY
 :   (50% time, 2009 -- 2010)  
     *Consulting Data Scientist*.
     Built a recommendation engine for an online restaurant deal discovery application.
     Prototyped and evaluated experimental technologies for automated summarization and recommendation.
-
-Blue Shift Software Laboratory, Minneapolis, MN
-:   (2009 -- 2011)  
-    *Founder, Lead Engineer*.
-    Founded a startup business with the broad goal of providing software that supports data-driven decision-making through the synthesis and visualization of existing knowledge.
-    Launched thinkmeter.com and eventburn.com, both hosted on Google App Engine.
 
 University of Minnesota, MN
 :   (20% -- 50% time, 2009 -- 2010)  
